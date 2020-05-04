@@ -6,6 +6,9 @@
 *.jpg
 *.pyc
 old/
+*.a
+*.weights
+*.so
 mnist/
 data/
 caffe/
